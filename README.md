@@ -7,7 +7,6 @@ Live Demo:
 https://github.com/joshith498-crypto.github.io/ZenithOSv2/ Important Note The live Demo Isn't Working So who ever wants to try the web os please download the zip and open index.html in your browsers
 
 Features:
-
 - Draggable windows
 - Finder
 - Terminal
